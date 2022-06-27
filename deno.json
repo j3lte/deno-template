@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {},
+  "tasks": {
+    "test": "deno test"
+  }
+}
